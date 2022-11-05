@@ -1,1 +1,1 @@
-Simple implementation of bow and arrow shotting in Unreal Engine 5.
+Simple implementation of bow and arrow shooting in Unreal Engine 5.
